@@ -1,4 +1,4 @@
-import 'package:intl_phone_number_input/src/models/country_model.dart';
+import 'package:intl_phone_number_input_updated/src/models/country_model.dart';
 
 /// [Utils] class contains utility methods for `intl_phone_number_input` library
 class Utils {

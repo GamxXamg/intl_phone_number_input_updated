@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:intl_phone_number_input/src/models/country_model.dart';
-import 'package:intl_phone_number_input/src/utils/selector_config.dart';
-import 'package:intl_phone_number_input/src/utils/test/test_helper.dart';
-import 'package:intl_phone_number_input/src/widgets/countries_search_list_widget.dart';
-import 'package:intl_phone_number_input/src/widgets/input_widget.dart';
-import 'package:intl_phone_number_input/src/widgets/item.dart';
+import 'package:intl_phone_number_input_updated/src/models/country_model.dart';
+import 'package:intl_phone_number_input_updated/src/utils/selector_config.dart';
+import 'package:intl_phone_number_input_updated/src/utils/test/test_helper.dart';
+import 'package:intl_phone_number_input_updated/src/widgets/countries_search_list_widget.dart';
+import 'package:intl_phone_number_input_updated/src/widgets/input_widget.dart';
+import 'package:intl_phone_number_input_updated/src/widgets/item.dart';
 
 /// [SelectorButton]
 class SelectorButton extends StatelessWidget {

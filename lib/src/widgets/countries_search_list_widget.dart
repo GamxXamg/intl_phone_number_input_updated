@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:intl_phone_number_input/src/models/country_model.dart';
-import 'package:intl_phone_number_input/src/utils/test/test_helper.dart';
-import 'package:intl_phone_number_input/src/utils/util.dart';
+import 'package:intl_phone_number_input_updated/src/models/country_model.dart';
+import 'package:intl_phone_number_input_updated/src/utils/test/test_helper.dart';
+import 'package:intl_phone_number_input_updated/src/utils/util.dart';
 
 /// Creates a list of Countries with a search textfield.
 class CountrySearchListWidget extends StatefulWidget {
